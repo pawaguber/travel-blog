@@ -1,4 +1,4 @@
-<p align="center"><img src="[https://i.ibb.co/pb6pcF9/weather.png](https://i.ibb.co/LS0SWY2/travel.png)" width="800" alt="Laravel Logo"></p>
+<p align="center"><img src="https://i.ibb.co/LS0SWY2/travel.png" width="800" alt="Laravel Logo"></p>
 
 
 ## 🌄 Travel Blog
